@@ -28,7 +28,7 @@ app.get('/', (req, res) => {
 });
 
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3000;	//process.env.PORT is used by heroku
 app.listen(PORT,
 	() => console.log(`server listening on port ${PORT}`)
 );
