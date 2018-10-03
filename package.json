@@ -1,5 +1,5 @@
 {
-  "name": "hello-ci-cd",
+  "name": "my-quotes",
   "version": "1.0.0",
   "description": "CI/CD demo",
   "main": "server.js",
